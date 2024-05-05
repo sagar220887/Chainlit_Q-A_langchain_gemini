@@ -1,0 +1,5 @@
+langchain
+chromadb
+tiktoken
+python-dotenv
+langchain_google_genai
